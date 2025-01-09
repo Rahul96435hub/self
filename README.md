@@ -1,5 +1,5 @@
 # Portfolio Responsive Complete
-## [Watch it on youtube](
+## [Watch it on youtube](https://www.youtube.com/@rahul96435)
 ### Portfolio Responsive Complete
 
 - Responsive Personal Portfolio Website HTML CSS & JavaScript.
@@ -10,5 +10,5 @@
 
 💙 Join the channel to see more videos like this. [Rahul_Suryavanshi](https://www.youtube.com/@rahul96435)
 
-![preview img](/Javadeveloper.jpg)
+![preview img](/Java developer.jpg)
 
