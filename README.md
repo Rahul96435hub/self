@@ -10,5 +10,5 @@
 
 💙 Join the channel to see more videos like this. [Rahul_Suryavanshi](https://www.youtube.com/@rahul96435)
 
-![preview img](/Java developer.jpg)
+![preview img](/image.jpg)
 
